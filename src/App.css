@@ -3,13 +3,13 @@ svg {
   display: block;
   /* background: #eee; */
   width: 100%;
-  height: 500px;
+  height: 100px;
 }
 
 #root {
   align-items: stretch;
   justify-content: center;
-  height: 200vh;
+  height: 120vh;
   padding: 0 50px 50px;
   text-align: center;
   font-size: 12px;
